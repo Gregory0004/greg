@@ -1098,7 +1098,7 @@ h1 {
 
   .home {
     flex-direction: column-reverse;
-    margin: 5rem 4rem;
+    margin: 1.5rem 1.5rem;
   }
 
   .home-content {
